@@ -1,0 +1,8 @@
+[package]
+name = "vrt2json-rust"
+version = "0.1.0"
+authors = ["Maarten <maartendeschrijver@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+xmlJSON = "0.2.0"
